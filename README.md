@@ -11,8 +11,8 @@ Recent Cybersecurity graduate (BS, May 2025) transitioning into data analytics. 
 
 ## 📊 Featured Projects
 
-### [Post-Quantum Cryptography Research](https://github.com/zachary-bradley/post-quantum-cryptography-research)
-Capstone research analyzing NIST post-quantum cryptographic algorithms. Evaluated CRYSTALS-Kyber, Dilithium, and SPHINCS+ for real-world implementation.
+### 🔐 [Post-Quantum Cryptography Research](https://github.com/zachary-bradley/post-quantum-cryptography-research)
+Capstone research analyzing NIST's post-quantum cryptography standards, evaluating lattice-based and hash-based algorithms for real-world implementation. Includes performance benchmarks and migration recommendations for organizations preparing for quantum threats.
 
 ### Stock Market Trend Analysis
 *Coming soon - Analyzing 10 years of financial data to compare risk-return profiles across sectors*

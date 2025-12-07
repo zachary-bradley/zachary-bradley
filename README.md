@@ -41,10 +41,10 @@ Seeking Data Analyst roles where I can apply analytical skills, security experti
 
 *Building a portfolio at the intersection of data analytics, machine learning, quantum computing, and cybersecurity*
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zachary-bradley&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zachary-bradley&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachary-bradley&layout=compact)
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachary-bradley&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachary-bradley&theme=radical)

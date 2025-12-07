@@ -14,8 +14,8 @@ Recent Cybersecurity graduate (BS, May 2025) transitioning into data analytics. 
 ### 🔐 [Post-Quantum Cryptography Research](https://github.com/zachary-bradley/post-quantum-cryptography-research)
 Capstone research analyzing NIST's post-quantum cryptography standards, evaluating lattice-based and hash-based algorithms for real-world implementation. Includes performance benchmarks and migration recommendations for organizations preparing for quantum threats.
 
-### Stock Market Trend Analysis
-*Coming soon - Analyzing 10 years of financial data to compare risk-return profiles across sectors*
+### 📈 [Stock Market Trend Analysis](https://github.com/zachary-bradley/stock-market-trend-analysis)
+10-year comparative analysis of tech vs banking stocks using Python and Pandas. Calculated risk-adjusted returns, identified NVDA's 66.8% annual performance, and visualized sector trends showing tech's 16.3% outperformance over banking.
 
 ### Customer Segmentation Analysis  
 *Coming soon - K-means clustering to identify high-value customer segments*

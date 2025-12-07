@@ -43,6 +43,8 @@ Seeking Data Analyst roles where I can apply analytical skills, security experti
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zachary-bradley&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachary-bradley&layout=compact&theme=radical)

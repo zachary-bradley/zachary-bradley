@@ -43,12 +43,8 @@ Seeking Data Analyst roles where I can apply analytical skills, security experti
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zachary-bradley&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=zachary-bradley&theme=dark)
 
-[![zachary-bradley's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachary-bradley&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachary-bradley&show_icons=true&theme=dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachary-bradley&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachary-bradley&layout=compact&theme=dark&hide_border=true)

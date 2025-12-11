@@ -12,7 +12,7 @@ Recent Cybersecurity graduate (BS, May 2025) transitioning into data analytics. 
 ## Featured Projects and Projects in Development
 
 ###  [Post-Quantum Cryptography Research](https://github.com/zachary-bradley/post-quantum-cryptography-research)
-University fo North Georgia Cybersecurity Capstone research analyzing NIST's post-quantum cryptography standards. This project  evaluates lattice-based and hash-based algorithms for real-world implementation and includes performance benchmarks and migration recommendations for organizations preparing for quantum threats. 
+University of North Georgia Cybersecurity Capstone research analyzing NIST's post-quantum cryptography standards. This project  evaluates lattice-based and hash-based algorithms for real-world implementation and includes performance benchmarks and migration recommendations for organizations preparing for quantum threats. 
 
 ### [Stock Market Trend Analysis](https://github.com/zachary-bradley/stock-market-trend-analysis)
 10-year comparative analysis of tech vs banking stocks using Python and Pandas. Calculated risk-adjusted returns, identified NVDA's 66.8% annual performance, and visualized sector trends showing tech's 16.3% outperformance over banking.

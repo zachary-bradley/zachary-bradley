@@ -17,8 +17,8 @@ University of North Georgia Cybersecurity Capstone research analyzing NIST's pos
 ### [Stock Market Trend Analysis](https://github.com/zachary-bradley/stock-market-trend-analysis)
 10-year comparative analysis of tech vs banking stocks using Python and Pandas. Calculated risk-adjusted returns, identified NVDA's 66.8% annual performance, and visualized sector trends showing tech's 16.3% outperformance over banking.
 
-### Customer Segmentation Analysis  
-*Coming soon - K-means clustering to identify high-value customer segments*
+### [Financial Analytics & Fraud Detection System](https://github.com/zachary-bradley/financial-analytics-fraud-detection) 
+A dual-analysis machine learning project combining customer segmentation and fraud detection on credit card transaction data.
 
 ## Technologies, Tools, and Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,7 +33,7 @@ University of North Georgia Cybersecurity Capstone research analyzing NIST's pos
 - **Location:** Gainesville, GA (Open to remote opportunities)
 
 ##  Currently
-Seeking Data Analyst roles where I can apply analytical skills, security expertise, and communication abilities to solve real business problems. Particularly interested in financial services, fintech, and technology companies.
+Seeking Data Analyst roles where I can apply analytical skills, security expertise, and communication abilities to solve real business problems. Particularly interested in media, fintech, and technology companies.
 
 **Available to start immediately**
 
